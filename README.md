@@ -81,7 +81,8 @@ plt.tight_layout()
 plt.show()
 ```
 # TABULATION :
-<img width="1040" height="1094" alt="image" src="https://github.com/user-attachments/assets/9c324a2f-f172-4065-98af-7877bd37e3b3" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/39df5195-eb9d-4a2d-99a4-c683e6005d5b" />
+
 
 # CALCULATION :
 <img width="955" height="1280" alt="image" src="https://github.com/user-attachments/assets/0832dca8-5001-443e-b776-ac048be556cc" />
